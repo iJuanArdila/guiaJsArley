@@ -1,3 +1,8 @@
+/*Un sistema deja entrar si: el usuario es mayor de edad Y tiene cuenta activa, O si 
+es administrador. Crea las variables booleanas, usa operadores lógicos (&&, ||) y 
+guarda el resultado en puedeEntrar. Imprime el resultado y prueba al menos tres 
+combinaciones distintas.
+*/
 const nombre1="Juan";
 const edad=17;
 const administrador=true;
