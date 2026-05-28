@@ -1,3 +1,10 @@
+
+/*Declara variables para los datos de un libro: titulo (string), autor (string), 
+añoPublicacion (number), paginas (number) y disponible (boolean). Imprime cada 
+una con su tipo usando typeof. Luego crea un template literal que muestre toda la 
+información en una sola línea formateada. 
+*/
+
 const titulo="No tengo boca y debo gritar";
 const autor="Harlan Ellison";
 const añoPublicacion="1967";
