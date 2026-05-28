@@ -1,3 +1,10 @@
+// EJERCICIO //
+/* Un empleado gana 2.000.000 mensuales. Calcula su quincena (la mitad)
+descuenta 4% de salud, 4% de pensión y un préstamo de 100.000. Usa operadores 
+aritméticos y de asignación compuesta (-=). Imprime el salario bruto, cada 
+deducción y el neto final. 
+*/
+
 const sueldo=2000000;
 let quincena=sueldo/2;
 const  salud=quincena*0.04;
